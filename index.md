@@ -38,6 +38,7 @@ Activities:
 2. Application to different data, participants work on some data they chose.
 3. Open discussion about the possibilities and limits.
 
+| | |
 |-------|-------|
 |**14:00**| The Role and Legal Framework of OSINT in the Collection and Analysis of Digital Evidence in the Ukrainian case<br>Kateryna Latysh, Marie Curie Fellow, Associate Professor the Department of Criminalistics, Yaroslav Mudryi National Law University; Senior Lecturer of Faculty of Law in Vilnius University (Lithuania)|
 |**14:20**| *Coffee break*|
@@ -49,8 +50,9 @@ Goal: get to know AI models to extract information from video, audio and images.
 Activities                                                
 1. Practice with open-source models from Huggingface.co, WHISPER, CLIP and others, convert speech to text, image to text and produce video summaries.
 2. Application to different data, participants work on some data they chose.
-3. Open discussion about the possibilities and limits.|
+3. Open discussion about the possibilities and limits.
 
+| | |
 |-----|------|
 |**16:00**| End of the first day|
 
