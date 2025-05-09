@@ -1,7 +1,7 @@
 title: AI for Justice
 logo: /assets/img/logo_AIforJustice.png
 description: Workshop on war crimes archiving
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
