@@ -20,14 +20,14 @@ ThruthHounds
 | Time | Topic |
 | --- | ----------- |
 |**09:00** |Welcome & Introduction <br> By Benjamin, Artem, Trainers and participants| 
-|**09:10** |Overview of Generative AI and potential applications to War Crimes Archiving<br> by Benjamin Ricaud|
-|**09:30** | Role of International Institutions in Documentation of Core International Crimes<br> by: International Court NGO Representative (TBC)|
-|09:50| *Coffee break*|
-|10:00| Ukraine War Crimes Trial Database (TBC - online)<br> by: Megumi Ochi, Associate Professor, Ritsumeikan University, Japan |　　
-|10:20 | Short presentations of own databases and participants’ experiences with digital archiving and Artificial Intelligence (AI)|
-|11:00| Digital Evidence and OSINT in Documenting War Crimes in Ukraine (Title TBC), by Maryna Slobodyanuk, NGO Truth Hounds (Ukraine), Coordinator for Training and Strategic Projects |
-|11:20| lunch|
-|12:30| Retrieval Augmented Generation and chatbots, new paradigm for archiving and retrieving documents + short practice: chatbots, by: Daniel Kaiser|
+|**09:10** |Overview of Generative AI and potential applications to War Crimes Archiving<br>Benjamin Ricaud|
+|**09:30** | Role of International Institutions in Documentation of Core International Crimes<br>International Court NGO Representative (TBC)|
+|**09:50**| *Coffee break*|
+|**10:00**| Ukraine War Crimes Trial Database (TBC - online)<br>Megumi Ochi, Associate Professor, Ritsumeikan University, Japan |　　
+|**10:20** | Short presentations of own databases and participants’ experiences with digital archiving and Artificial Intelligence (AI)|
+|**11:00**| Digital Evidence and OSINT in Documenting War Crimes in Ukraine (Title TBC)<br>Maryna Slobodyanuk, NGO Truth Hounds (Ukraine), Coordinator for Training and Strategic Projects |
+|**11:20**| *lunch*|
+|**12:30**| Retrieval Augmented Generation and chatbots, new paradigm for archiving and retrieving documents + short practice: chatbots<br>Daniel Kaiser|
 
 **12:50** Practice part 1: Retrieval Augmented Generation and chatbots
 
@@ -38,11 +38,8 @@ Activities:
 2. Application to different data, participants work on some data they chose.
 3. Open discussion about the possibilities and limits.
 
-**14:00** The Role and Legal Framework of OSINT in the Collection and Analysis of Digital Evidence in the Ukrainian case
-
-By: Kateryna Latysh, Marie Curie Fellow, Associate Professor the Department of Criminalistics, Yaroslav Mudryi National Law University; Senior Lecturer of Faculty of Law in Vilnius University (Lithuania)
-
-**14:20** *Coffee break*
+|**14:00**| The Role and Legal Framework of OSINT in the Collection and Analysis of Digital Evidence in the Ukrainian case<br>Kateryna Latysh, Marie Curie Fellow, Associate Professor the Department of Criminalistics, Yaroslav Mudryi National Law University; Senior Lecturer of Faculty of Law in Vilnius University (Lithuania)|
+|**14:20**| *Coffee break*|
 
 **14:40** Practice part 2: AI for video, images and audio
 
@@ -53,21 +50,14 @@ Activities
 2. Application to different data, participants work on some data they chose.
 3. Open discussion about the possibilities and limits.|
 
-**16:00** End of the first day
+|**16:00**| End of the first day|
 
 
 ### Day 2 (Theory and Practice of Digital Archiving), 12 of June
 
-**9:00** MSCA Project ‘Hybrid Cyber Warfare and Common Security in Europe’, Open-Access Book on OSINT and digital investigation of core international crimes 
-
-  By: Artem Galushko, Marie Curie Fellow, The Arctic University of Norway (UiT)
-
-
-**9:20** Managing databases and digital archives: challenges and opportunities in Ukraine (TBC)
-
-By: Valentyna Soloviova, Analytical Department Manager, NGO Truth Hounds 
-
-**09:40** *Coffee break* 
+|**9:00**| MSCA Project ‘Hybrid Cyber Warfare and Common Security in Europe’, Open-Access Book on OSINT and digital investigation of core international crimes <br>Artem Galushko, Marie Curie Fellow, The Arctic University of Norway (UiT)|
+|**9:20**| Managing databases and digital archives: challenges and opportunities in Ukraine (TBC)<br> Valentyna Soloviova, Analytical Department Manager, NGO Truth Hounds |
+|**09:40**| *Coffee break*| 
 
 **10:00** Practice part 3: Understanding the AI representation of data
 
@@ -77,17 +67,14 @@ Activities:
 1. Tutorial on data visualization, t-SNE, UMAP, Graphs with Gephi and application to AI models.
 2. Improving the RAG model, using what we have learned about AI model representations.
                 
-**11:30**     *Lunch*                              
+|**11:30**|     *Lunch*|    
+
 **12:30**   Practice part 4: Further developing AI for archiving: 
 Open session for the participants' projects, combining the AI see in part 1,2 and 3.
 Participants work on real-world archive data in teams, developing further a RAG system or some data analysis. The teaching team assists the teams in their projects.
 
-**14:00** ***Break & small walk around the campus***                                                  
-
-**15:00** Group Presentations and Feedback from Trainers/Group Leaders     
-
-**15:45** *Coffee Break*
-
-**16:00**   Final Discussion and Closing  
-
-**17:00** Dinner 
+|**14:00**| *Break & small walk around the campus*|                                                  
+|**15:00**| Group Presentations and Feedback from Trainers/Group Leaders|     
+|**15:45**| *Coffee Break*|
+|**16:00**|   Final Discussion and Closing  |
+|**17:00**| Dinner| 
