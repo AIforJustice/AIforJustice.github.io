@@ -29,15 +29,13 @@ ThruthHounds
 |**11:20**| *lunch*|
 |**12:30**| Retrieval Augmented Generation and chatbots, new paradigm for archiving and retrieving documents + short practice: chatbots<br>Daniel Kaiser|
 
-**12:50** **Practice part 1:** Retrieval Augmented Generation and chatbots
-
-Goal: build a prototype to archive data, understand how it works and the limits. Reflect on the limitations.
-
-Activities:
-1. Setting up a RAG system (with or without coding skills), step by step tutorial with participants.
-2. Application to different data, participants work on some data they chose.
-3. Open discussion about the possibilities and limits.
-
+|**12:50**| **Practice part 1:** Retrieval Augmented Generation and chatbots<br>
+Goal: build a prototype to archive data, understand how it works and the limits. Reflect on the limitations.<br>
+Activities: <ol>
+<li>Setting up a RAG system (with or without coding skills), step by step tutorial with participants.</li>
+<li>Application to different data, participants work on some data they chose.</li>
+<li>Open discussion about the possibilities and limits.</li>
+</ol>|
 | | |
 |-------|-------|
 |**14:00**| The Role and Legal Framework of OSINT in the Collection and Analysis of Digital Evidence in the Ukrainian case<br>Kateryna Latysh, Marie Curie Fellow, Associate Professor the Department of Criminalistics, Yaroslav Mudryi National Law University; Senior Lecturer of Faculty of Law in Vilnius University (Lithuania)|
