@@ -5,14 +5,13 @@ layout: default
 # Workshop AI for Justice
 # Using Generative Artificial Intelligence (AI) in War Crimes Archiving
 
+Short description of the workshop
 
-# Program
-
-## Day 1 (International Cooperation and State of the Art), 11 of June
+# Day 1 (International Cooperation and State of the Art), 11 of June
 
 | Time | Topic |
 | --- | ----------- |
-|**09:00** |Welcome & Introduction <br> By the organizers| 
+|**09:00** |Welcome & Introduction <br> by the organizers| 
 |**09:10** |Overview of Generative AI and potential applications to War Crimes Archiving<br>Benjamin Ricaud|
 |**09:30** | Role of International Institutions in Documentation of Core International Crimes<br>International Court NGO Representative (TBC)|
 |**09:50**| *Coffee break*|
@@ -21,18 +20,14 @@ layout: default
 |**11:00**| Digital Evidence and OSINT in Documenting War Crimes in Ukraine (Title TBC)<br>Maryna Slobodyanuk, NGO Truth Hounds (Ukraine), Coordinator for Training and Strategic Projects |
 |**11:20**| *lunch*|
 |**12:30**| Retrieval Augmented Generation and chatbots, new paradigm for archiving and retrieving documents + short practice: chatbots<br>Daniel Kaiser|
-|**12:50**| **Practice part 1:** Retrieval Augmented Generation and chatbots<br>Goal: build a prototype to archive data, understand how it works and the limits. Reflect on the limitations.<br>Activities: <ul><li>Setting up a RAG system (with or without coding skills), step by step tutorial with participants.</li><li>Application to different data, participants work on some data they chose.</li><li>Open discussion about the possibilities and limits.</li></ul>|
+|**12:50**| **Practice part 1:** Retrieval Augmented Generation and chatbots<br>Goal: build a prototype to archive data, understand how it works and the limits. Reflect on the limitations.<br>Setting up a RAG system (with or without coding skills), step by step tutorial with participants. Application to different data, participants work on some data they chose. Open discussion about the possibilities and limits.|
 |**14:00**| The Role and Legal Framework of OSINT in the Collection and Analysis of Digital Evidence in the Ukrainian case<br>Kateryna Latysh, Marie Curie Fellow, Associate Professor the Department of Criminalistics, Yaroslav Mudryi National Law University; Senior Lecturer of Faculty of Law in Vilnius University (Lithuania)|
 |**14:20**| *Coffee break*|
-
-
-| | |
-|---|---|
 |**14:40**| **Practice part 2:** AI for video, images and audio<br>Goal: get to know AI models to extract information from video, audio and images.<br>Practice with open-source models from Huggingface.co, WHISPER, CLIP and others, convert speech to text, image to text and produce video summaries. Application to different data, participants work on some data they chose. Open discussion about the possibilities and limits.|
 |**16:00**| End of the first day|
 
 
-## Day 2 (Theory and Practice of Digital Archiving), 12 of June
+# Day 2 (Theory and Practice of Digital Archiving), 12 of June
 
 | | |
 |-----|------|
@@ -41,13 +36,7 @@ layout: default
 |**09:40**| *Coffee break*| 
 |**10:00**| **Practice part 3:** Understanding the AI representation of data<br>Goal: understand how an AI model represents the data and organizes it. Understand the imperfect representation of AI models and the risks of relying too much on them.<br>Activities:<br>Tutorial on data visualization, t-SNE, UMAP, Graphs with Gephi and application to AI models.<br>Improving the RAG model, using what we have learned about AI model representations.|
 |**11:30**|*Lunch*|    
-
-**12:30**   **Practice part 4:** Further developing AI for archiving: 
-Open session for the participants' projects, combining the AI see in part 1,2 and 3.
-Participants work on real-world archive data in teams, developing further a RAG system or some data analysis. The teaching team assists the teams in their projects.
-
-| | |
-|------|------|
+|**12:30**|   **Practice part 4:** Further developing AI for archiving<br>Open session for the participants' projects, combining the AI see in part 1,2 and 3. Participants work on real-world archive data in teams, developing further a RAG system or some data analysis. The teaching team assists the teams in their projects.
 |**14:00**| *Break & small walk around the campus*|                                                  
 |**15:00**| Group Presentations and Feedback from Trainers/Group Leaders|     
 |**15:45**| *Coffee Break*|
