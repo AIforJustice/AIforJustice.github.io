@@ -5,17 +5,10 @@ layout: default
 # Workshop AI for Justice
 # Using Generative Artificial Intelligence (AI) in War Crimes Archiving
 
-## Date and Place
-11th and 12th of June 2025, University of Oslo, Norway
 
-## Organizers
-Center of Excellence SSF Integreat
-UiT the Arctic University of Norway
-ThruthHounds
+# Program
 
-## Program
-
-### Day 1 (International Cooperation and State of the Art), 11 of June
+## Day 1 (International Cooperation and State of the Art), 11 of June
 
 | Time | Topic |
 | --- | ----------- |
@@ -36,8 +29,6 @@ Activities: <ol>
 <li>Application to different data, participants work on some data they chose.</li>
 <li>Open discussion about the possibilities and limits.</li>
 </ol>|
-| | |
-|-------|-------|
 |**14:00**| The Role and Legal Framework of OSINT in the Collection and Analysis of Digital Evidence in the Ukrainian case<br>Kateryna Latysh, Marie Curie Fellow, Associate Professor the Department of Criminalistics, Yaroslav Mudryi National Law University; Senior Lecturer of Faculty of Law in Vilnius University (Lithuania)|
 |**14:20**| *Coffee break*|
 
@@ -55,7 +46,7 @@ Activities
 |**16:00**| End of the first day|
 
 
-### Day 2 (Theory and Practice of Digital Archiving), 12 of June
+## Day 2 (Theory and Practice of Digital Archiving), 12 of June
 
 |-----|------|
 |**9:00**| MSCA Project ‘Hybrid Cyber Warfare and Common Security in Europe’, Open-Access Book on OSINT and digital investigation of core international crimes <br>Artem Galushko, Marie Curie Fellow, The Arctic University of Norway (UiT)|
