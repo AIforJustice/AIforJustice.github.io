@@ -6,15 +6,16 @@ layout: default
 # Using Generative Artificial Intelligence (AI) in War Crimes Archiving
 
 
-Workshop will gather representatives of academia, civil society and expert communities interested in working with online and offline war crimes databases and archives. Workshop participants will familiarise themselves with the recent generative AI tools and learn how to apply them while implementing practical assignments with digital materials on core international crimes (i.e. genocide, crimes against humanity, war crimes and the crime of aggression). During the workshop, participants will be subdivided into groups, with each group working with a separate type of digital materials (texts, audio-visual materials, metadata, etc.). With the help of trainers and team leaders, groups will learn how to search for information in various multimedia documents, in different languages, with the purpose of facilitating information processing and increasing access of legal practitioners and civic activists to the linkage evidence, which connects alleged perpetrators to individual cases.
+The workshop will gather representatives of academia, civil society and expert communities working with Artificial Intelligence and / or war crimes databases and archives. Workshop participants will learn about the recent advances in generative AI and the new possibilities offered by these AI tools for generating and extracting information from text, audio, images and videos. The workshop is also the occasion to discuss the specificities of war crime related data and test AI models on these data.
+ 
+During the workshop, participants will test AI models in practice helped by the teaching team. Mixed group with participants from diverse backgrounds will work on applying AI to archive material (either online data, data provided by NGOs or their own data). Participants should have either 
+* some programming background, 
+* experience with databases,
+* or a knowledge of or an interest in the process of war crime archiving and investigations.
 
  
+**Expected outcome:** Through individual tasks and teamwork in mixed interdisciplinary groups, the participants will network, share their professional experiences and build a small AI-aware community. This community will specialise in using Generative AI to advance the effective systematisation, preservation, presentation and analysis of war crimes archives. Because available open-source software provides many opportunities for international collaboration in a collective virtual environment, the community could expand and become a platform for sharing resources and training new community members. Participants will get access to code and tools they can use to make their own archives/databases AI-enabled.
 
-**Expected outcome:** Through individual tasks and teamwork in mixed interdisciplinary groups, the participants will network, share their professional experiences and build a small AI-aware community, which will further specialise in using Generative AI as well as continue training together to advance the effective systematisation, preservation, and presentation of war crimes archives. Because available open-source software provides many opportunities for international collaboration in a collective virtual environment, the community could expand and become a platform for sharing resources and training new community members. Participants will get access to code and tools they can use to make their own archives/databases searchable and accessible.
-
-
-
-To do: add a registration link
 
 # Day 1, 11 of June
 
@@ -34,7 +35,7 @@ To do: add a registration link
 |**14:20**| *Coffee break*|
 |**14:40**| **Practice part 2:** AI for video, images and audio<br>Goal: get to know AI models which extract information from video, audio and images.<br>Practice with open-source models from Huggingface.co, WHISPER, CLIP and others, convert speech to text, image to text and produce video summaries. Application to different data, participants work on some data they chose. Open discussion about the possibilities and limits.|
 |**16:00**| End of the first day|
-
+|**17:00**| *Pizzas*| 
 
 # Day 2, 12 of June
 
@@ -50,4 +51,4 @@ To do: add a registration link
 |**15:00**| Group Presentations and Feedback from Trainers/Group Leaders|     
 |**15:45**| *Coffee Break*|
 |**16:00**|   Final Discussion and Closing  |
-|**17:00**| Dinner| 
+
