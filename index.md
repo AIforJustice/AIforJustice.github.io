@@ -6,9 +6,9 @@ layout: default
 # Using Generative Artificial Intelligence (AI) in War Crimes Archiving
 
 
-The workshop will gather representatives of academia, civil society and expert communities working with Artificial Intelligence and / or war crimes databases and archives. Workshop participants will learn about the recent advances in generative AI and the new possibilities offered by these AI tools for generating and extracting information from text, audio, images and videos. The workshop is also the occasion to discuss the specificities of war crime related data and test AI models on these data.
+The workshop will gather representatives of academia, civil society and expert communities working with Artificial Intelligence and / or war crimes databases and archives. Workshop participants will learn about the recent advances in generative AI and the new possibilities offered by these AI tools for generating and extracting information from text, audio, images and videos. The workshop is the occasion to discuss the specificities of war crime related data and test AI models on these data.
  
-During the workshop, participants will test AI models in practice helped by the teaching team. Mixed group with participants from diverse backgrounds will work on applying AI to archive material (either online data, data provided by NGOs or their own data). Participants should have either 
+During the workshop, participants will test AI models in practice helped by the teaching team from [Integreat](https://www.integreat.no/). Mixed group with participants from diverse backgrounds will work on applying AI to archive material (either online data, data provided by NGOs or their own data). Participants should have either 
 * some programming background, 
 * experience with databases,
 * or a knowledge of or an interest in the process of war crime archiving and investigations.
