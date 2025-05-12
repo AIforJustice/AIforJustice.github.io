@@ -14,7 +14,7 @@ During the workshop, participants will test AI models in practice helped by the 
 * or a knowledge of or an interest in the process of war crime archiving and investigations.
 
  
-**Expected outcome:** Through individual tasks and teamwork in mixed interdisciplinary groups, the participants will network, share their professional experiences and build a small AI-aware community. This community will specialise in using Generative AI to advance the effective systematisation, preservation, presentation and analysis of war crimes archives. Because available open-source software provides many opportunities for international collaboration in a collective virtual environment, the community could expand and become a platform for sharing resources and training new community members. Participants will get access to code and tools they can use to make their own archives/databases AI-enabled.
+**Expected outcome:** Through individual tasks and teamwork in mixed interdisciplinary groups, the participants will network, share their professional experiences and build a small AI-aware community. This community will specialise in using Generative AI to advance the effective systematisation, preservation, presentation and analysis of war crimes archives. Participants will get access to code and tools shown during the workshop and can use them to make their own archives/databases AI-enabled. The code will be available on the [AI for Justice Github repository](https://github.com/AIforJustice)
 
 
 # Day 1, 11 of June
